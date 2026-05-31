@@ -1,0 +1,12 @@
+Seller
+email: manju@gmail.com
+pass: Manju@4123
+
+Customer
+email: vishu@gmail.com
+pass: Vishu@4123
+
+
+Admin
+email: admin@zuply.com
+pass: Admin@123
